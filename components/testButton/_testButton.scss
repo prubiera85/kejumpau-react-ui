@@ -1,0 +1,15 @@
+.test-button {
+  padding: 1em;
+  width: auto;
+  display: inline-flex;
+  border-radius: 6px;
+  background: #1d62b7;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 600;
+
+  &:hover {
+    background: #124a90;
+    color: #ffffff;
+  }
+}
